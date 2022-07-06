@@ -80,7 +80,6 @@ body{
 #inputamount h3{
     margin-left: 45%;
     color: rgb(175, 170, 170);
-    
 }
 
 
@@ -124,6 +123,7 @@ body{
     padding-left: 40px;
     box-shadow: 5px 5px 10px grey;
 }
+
 .icon1{
     left: 22%;
     background-color: rgb(189, 218, 189);
